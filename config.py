@@ -1,0 +1,2 @@
+# Global event storage
+events = []
